@@ -7,12 +7,12 @@ AICTE Student ID: STU6a6050cd2e1271784697037
 
 ---
 
-Project Overview:
+##Project Overview:
 This project investigates agricultural performance across three primary cropping seasons: Kharif, Rabi, and Zaid. By evaluating 4,000 farm records across 28 distinct attributes, the study analyzes the impact of seasonal weather variations, irrigation methods, and input costs on crop output and net farm profitability.
 
 ---
 
-Key Questions Addressed:
+##Key Questions Addressed:
 
 * How do crop yield and net profit vary across different cropping seasons?
 * What are the environmental determinants (rainfall, humidity, temperature) of seasonal performance?
@@ -21,7 +21,7 @@ Key Questions Addressed:
 
 ---
 
-Tech Stack & Environment:
+##Tech Stack & Environment:
 
 * Programming Language: Python
 * Data Manipulation: Pandas, NumPy
@@ -31,7 +31,7 @@ Tech Stack & Environment:
 
 ---
 
-Data Preprocessing & Analysis Pipeline:
+##Data Preprocessing & Analysis Pipeline:
 
 1. Data Cleaning & Imputation:
 
@@ -55,7 +55,7 @@ Data Preprocessing & Analysis Pipeline:
 
 ---
 
-Key Findings:
+##Key Findings:
 
 * Seasonal Profit Disparity:
 * Kharif: Highest average profit of ₹1,78,914.65, supported by favorable monsoon conditions.
@@ -80,7 +80,7 @@ Key Findings:
 
 ---
 
-Practical Recommendations:
+##Practical Recommendations:
 
 1. Promote Drip Irrigation: Transitioning from flood to drip irrigation saves approximately 25% water while substantially increasing net profit.
 2. Mitigate Summer Deficits: Discourage high-water crops during Zaid; prioritize heat-tolerant, drought-resilient crops.
@@ -88,7 +88,7 @@ Practical Recommendations:
 
 ---
 
-Repository Structure:
+##Repository Structure:
 
 * seasonal_agriculture_performance_dataset.csv - Project dataset
 * VOIS_Major_Project_Seasonal_Agriculture_Performance_Analysis.ipynb - Jupyter Notebook
