@@ -48,7 +48,7 @@ This project investigates agricultural performance across three primary cropping
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
 * **Seasonal Profit Disparity:**
   * **Kharif:** Highest average profit of **₹1,78,914.65**, supported by favorable monsoon conditions.
@@ -68,14 +68,14 @@ This project investigates agricultural performance across three primary cropping
 
 ---
 
-## 💡 Practical Recommendations
+##  Practical Recommendations
 1. **Promote Drip Irrigation:** Transitioning from flood to drip irrigation saves approximately 25% water while substantially increasing net profit.
 2. **Mitigate Summer Deficits:** Discourage high-water crops during Zaid; prioritize heat-tolerant, drought-resilient crops.
 3. **Preventive Kharif Pest Control:** Deploy pre-monsoon pest surveillance to prevent yield loss during high-humidity periods (54.47% risk peak).
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 ```text
 ├── seasonal_agriculture_performance_dataset.csv
 ├── VOIS_Major_Project_Seasonal_Agriculture_Performance_Analysis.ipynb
